@@ -11,6 +11,14 @@ An executive-level Power BI analytics dashboard built to analyze Olist's e-comme
 * **Custom UI/UX Design:** Features a custom-built, minimalist flat-vector icon suite styled in a dark burgundy and burnt-orange executive SaaS aesthetic.
 
 ---
+## 📸 Dashboard Preview
+
+![Sales and Revenue Dashboard](Screenshot%202026-10-14%20012924.png)
+
+![Delivery and Logistics](Screenshot%202026-10-14%20012958.png)
+
+![Seller and Product Concentration](Screenshot%202026-10-14%20013021.png)
+---
 
 ## 📥 Download Project File
 You can download the interactive Power BI report file below:
